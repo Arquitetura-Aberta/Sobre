@@ -2,7 +2,7 @@
 
 Informações sobre abordagem de projeto de arquitetura aberta
 
-![](info/logo_aa.gif)
+![](docs/logo_aa.gif)
 
 ## Fluxo de trabalho                                                                                            
 
@@ -66,5 +66,5 @@ Não importa qual abordagem seja escolhida:
 
 A Licença atribuida ao conteúdo associado aos projetos abertos é licenciado sob uma licença *copyleft* de código aberto: [Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR). 
 
-![](info/logo_atribuicao.png)
+![](docs/logo_atribuicao.png)
 
