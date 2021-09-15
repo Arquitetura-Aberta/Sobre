@@ -1,6 +1,6 @@
 # Informações gerais
 
-Informações sobre abordagem de projeto de arquitetura aberta
+Informações sobre abordagem de projeto de arquitetura aberto
 
 ![](docs/logo_aa.gif)
 
@@ -36,7 +36,7 @@ Assim, oferecemos duas opções de fluxo de trabalho:
 - abordagem aberta - onde toda documentação de construção é aberta e compartilhada publicamente. Toda a documentação e conteúdo são de código aberto, produzidos em nuvem aberto. Ou seja, durante o desenvolvimento do projeto, todo conteúdo é desenvolvido publicamente (aqui no GitHub) e é de código aberto e ficará disponível livremente para você, ou qualquer parte, para uso futuro, desde que sejam respeitados os termos de atribuição e de licença.
 
 
-- abordagem tradicional - onde toda a documentação permanece confidencial e privado. Nesta abordagem, de acordo com a Resolução Nº 67 que dispões sobre os Direitos Autorais na Arquitetura e Urbanismo e a Lei nº 12.378 que regulamenta o exercício da Arquitetura e Urbanismo, o arquiteto é considerado o autor e proprietário de seu respectivo Instrumento de serviço e mantêm todos os direitos legais e estatutários do projeto, incluindo os direitos autorais.
+- abordagem tradicional - onde toda a documentação permanece confidencial e privado. Nesta abordagem, de acordo com a Resolução Nº 67 que dispões sobre os Direitos Autorais na Arquitetura e Urbanismo e a Lei nº 12.378 que regulamenta o exercício da Arquitetura e Urbanismo, o arquiteto é considerado o autor e proprietário de seu respectivo Instrumento de serviço e mantêm todos os direitos legais e estatutários do projeto, incluindo os direitos autorais. 
 
 ## O que isso significa?
 
@@ -50,7 +50,7 @@ Assim, a produção arquitetônica de código aberta significa:
 
 ## Isso vai acabar com a profissão de arquiteto?
 
-O desenvolvimento de uma arquitetura aberta nesse nível é uma tarefa tão grande que certamente não intimidará a sobrevivência profissional dos arquitetos. Além disso, cabe lembrar que os softwares abertos são rentáveis, pois não excluem a contratação de suporte técnico por quem prefere não se ocupar de sua instalação, atualização, modificação e personalização, além de serem comprovadamente mais confiáveis do que os softwares proprietários, pelo fato de sua transparência e de seus usuários trabalharem em conjunto na solução dos problemas.
+O desenvolvimento de uma arquitetura aberta nesse nível é uma tarefa tão grande que certamente não intimidará a sobrevivência profissional dos arquitetos. Além disso, cabe lembrar que os processos abertos são rentáveis, pois não excluem a contratação de suporte técnico por quem prefere não se ocupar de sua atualização, modificação e personalização. Além disso, os processos abertos são comprovadamente mais confiáveis do que os proprietários pelo fato de sua transparência.
 
 ## Observações:
 
@@ -58,9 +58,9 @@ Não importa qual abordagem seja escolhida:
 
 - qualquer documentação de terceiros fora deste contrato e/ou compartilhada com o arquiteto antes e durante a execução deste contrato NÃO será compartilhada publicamente;
 
-- quaisquer e-mails anteriores ou entre você, o arquiteto ou outras partes durante a duração do projeto NÃO serão compartilhados publicamente;
+- quaisquer e-mails anteriores entre você, o arquiteto ou qualquer outras partes durante o projeto NÃO serão compartilhados publicamente;
 
-- além disso, não divulgaremos nada que você indicar explicitamente que deva ser mantido em sigilo.
+- além disso, não divulgamos nada que seja indicar explicitamente que DEVE ser mantido em sigilo.
 
 ## Licença 
 
